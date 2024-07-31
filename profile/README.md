@@ -17,6 +17,6 @@ $\color{#759cff}{\textsf{Vorper}}$ is a team of developers from all around the w
 Vorper's team generally focuses on making open-source software but we also do other stuff such as:
 * Writing Technical Documentation for **IT**
 * Supporting **Open-Source** Initiatives.
-* Developing tools to make daily tasks easier.
+* Developing Tools/Software to make Daily Tasks easier.
 
 Now that you know what Vorper is you can start helping us develop more software!
