@@ -8,9 +8,7 @@
 
 <br></br>
 
-<p align="center">
-  $\Huge{\textsf{👋 Introduction}}$
-</p>
+<h2>👋 Introduction</h2>
 
 $\color{#759cff}{\textsf{Vorper}}$ is a team of developers from all around the world with a single common goal: to make free and open-source software for the world no matter how difficult it is. Welcome to open-source, welcome to $\color{#759cff}{\textsf{Vorper}}$.
 
